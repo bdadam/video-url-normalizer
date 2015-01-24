@@ -7,9 +7,9 @@ The normalized URLs are not necessarily the canonical URLs of the videos.
 Each valid video URL has an ID which is unique at its specific hoster.
 
 Currently supported services:
-	- Youtube
-	- Dailymotion
-	- Vimeo
+* Youtube
+* Dailymotion
+* Vimeo
 
 ## Usage
 ```JavaScript
