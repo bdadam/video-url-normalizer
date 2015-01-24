@@ -6,6 +6,11 @@ This module is intended to be used to normalize the URLs of different video host
 The normalized URLs are not necessarily the canonical URLs of the videos.
 Each valid video URL has an ID which is unique at its specific hoster.
 
+Currently supported services:
+	- Youtube
+	- Dailymotion
+	- Vimeo
+
 ## Usage
 ```JavaScript
 var normalizeVideoUrl = require('video-url-normalizer');
