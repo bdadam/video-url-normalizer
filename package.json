@@ -1,0 +1,31 @@
+{
+  "name": "video-url-normalizer",
+  "version": "1.0.0",
+  "description": "This npm package normalizes the URLs of different video hosting services",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdadam/video-url-normalizer.git"
+  },
+  "keywords": [
+    "video",
+    "youtube",
+    "dailymotion",
+    "vimeo",
+    "normalizer",
+    "URL"
+  ],
+  "author": "Adam Beres-Deak <me@bdadam.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdadam/video-url-normalizer/issues"
+  },
+  "homepage": "https://github.com/bdadam/video-url-normalizer",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
